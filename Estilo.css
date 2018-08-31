@@ -1,0 +1,78 @@
+body{
+    background: lightblue;
+    padding-top: 20px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#corpo_id{
+    background: lightblue;
+    padding: 50px;
+    width: 1000px;
+    height: auto;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#cabecalho_id{
+    background: lightblue;
+    padding: 0;
+    width: 800px;    
+    align-items: flex-start;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    font-size: 30px
+    
+}
+#infopes_id{
+    background:lightblue;
+    padding: 0;
+    width: 800px;
+    align-items: flex-start;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;    
+}
+
+#infoacad_id{
+    background: lightblue;
+    padding: 0;
+    width: 800px;
+    align-items: flex-start;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+#infoprof_id{
+    background: lightblue;
+    padding: 0;
+    width: 800px;
+    align-items: flex-start;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+p{
+  font-family: cursive;
+}
+
+ul{
+    font-family: cursive;
+}
+dl{
+    font-family: cursive;
+}
+
